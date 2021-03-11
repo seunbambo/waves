@@ -1,0 +1,1 @@
+mongoimport --host  waves-shard-00-01.jz0if.mongodb.net:27017 --db waves --collection woods --type json --file woods.json --jsonArray --authenticationDatabase admin --ssl --username your-username --password your-password
